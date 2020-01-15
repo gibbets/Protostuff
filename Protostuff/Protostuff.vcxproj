@@ -139,7 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\generated\addressbook.pb.cc" />
-    <ClCompile Include="..\main.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="session.cpp" />
     <ClCompile Include="tcpserver.cpp" />
   </ItemGroup>

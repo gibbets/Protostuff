@@ -1,9 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "generated/addressbook.pb.h"
+#include "../generated/addressbook.pb.h"
 
-#include "protostuff/tcpserver.h"
+#include "tcpserver.h"
 #include "asio.hpp"
 
 
