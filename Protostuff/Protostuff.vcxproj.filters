@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\main.cpp">
-      <Filter>Quelldateien</Filter>
-    </ClCompile>
     <ClCompile Include="..\generated\addressbook.pb.cc">
       <Filter>Quelldateien</Filter>
     </ClCompile>
@@ -25,6 +22,9 @@
       <Filter>Quelldateien</Filter>
     </ClCompile>
     <ClCompile Include="session.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
   </ItemGroup>
